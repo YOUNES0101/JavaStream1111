@@ -1,4 +1,4 @@
-#Description : Simulateur de Pare-feu
+# Description : Simulateur de Pare-feu
 
 Ce projet simule un pare-feu, un composant de sécurité essentiel pour tout réseau informatique. Dans le monde numérique d'aujourd'hui, un réseau sans pare-feu, c'est comme une maison avec la porte d'entrée grande ouverte : n'importe qui peut entrer, y compris les personnes mal intentionnées.
 
